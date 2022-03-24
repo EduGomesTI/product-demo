@@ -1,0 +1,15 @@
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\bin\Debug\net7.0\Product.Domain.exe
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\bin\Debug\net7.0\Product.Domain.deps.json
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\bin\Debug\net7.0\Product.Domain.runtimeconfig.json
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\bin\Debug\net7.0\Product.Domain.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\bin\Debug\net7.0\Product.Domain.pdb
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.csproj.AssemblyReference.cache
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.AssemblyInfoInputs.cache
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.AssemblyInfo.cs
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.csproj.CoreCompileInputs.cache
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\refint\Product.Domain.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.pdb
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\Product.Domain.genruntimeconfig.cache
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Domain\obj\Debug\net7.0\ref\Product.Domain.dll
