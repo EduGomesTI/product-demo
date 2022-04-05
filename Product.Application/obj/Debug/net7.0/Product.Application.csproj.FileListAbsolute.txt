@@ -1,6 +1,4 @@
-D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\bin\Debug\net7.0\Product.Application.exe
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\bin\Debug\net7.0\Product.Application.deps.json
-D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\bin\Debug\net7.0\Product.Application.runtimeconfig.json
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\bin\Debug\net7.0\Product.Application.dll
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\bin\Debug\net7.0\Product.Application.pdb
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\net7.0\Product.Application.csproj.AssemblyReference.cache
@@ -11,5 +9,7 @@ D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\ne
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\net7.0\Product.Application.dll
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\net7.0\refint\Product.Application.dll
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\net7.0\Product.Application.pdb
-D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\net7.0\Product.Application.genruntimeconfig.cache
 D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\net7.0\ref\Product.Application.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\bin\Debug\net7.0\Product.Domain.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\bin\Debug\net7.0\Product.Domain.pdb
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Application\obj\Debug\net7.0\Product.Application.csproj.CopyComplete

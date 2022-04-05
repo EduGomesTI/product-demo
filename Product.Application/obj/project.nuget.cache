@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uZKvq5mcNuSwaOCLSTgsbgWrWAzLce+DFO6Jkd3nSKLKaWpB8wE95VOyHmWSbxPUxTt+K7zn4GnZOngmuksK0Q==",
+  "dgSpecHash": "FCq+2+bGK5AigKVKZzQVt6grdeFPT/+yjetsHPFgvyuF8oZ2eXTGKz/nUNj6e82ByB3cimYa89OIfKQ3of0thw==",
   "success": true,
   "projectFilePath": "D:\\developer\\kubernetes\\demo-kubernetes\\Product\\Product.Application\\Product.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dudol\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\dudol\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\dudol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.0\\microsoft.windowsdesktop.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\dudol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0\\microsoft.netcore.app.ref.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

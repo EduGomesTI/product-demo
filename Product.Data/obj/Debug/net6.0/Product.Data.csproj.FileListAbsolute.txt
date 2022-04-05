@@ -1,0 +1,15 @@
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\bin\Debug\net6.0\Product.Data.deps.json
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\bin\Debug\net6.0\Product.Data.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\bin\Debug\net6.0\Product.Data.pdb
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\bin\Debug\net6.0\Product.Domain.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\bin\Debug\net6.0\Product.Domain.pdb
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.csproj.AssemblyReference.cache
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfoInputs.cache
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfo.cs
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CoreCompileInputs.cache
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CopyComplete
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\refint\Product.Data.dll
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\Product.Data.pdb
+D:\developer\kubernetes\demo-kubernetes\Product\Product.Data\obj\Debug\net6.0\ref\Product.Data.dll

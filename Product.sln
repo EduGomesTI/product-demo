@@ -15,17 +15,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-CrossCutting", "4-CrossCu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Tests", "5-Tests", "{821C51AE-24D2-4FDA-A061-5F5E715CDCC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.API", "Product.API\Product.API.csproj", "{C740D2F6-9331-4FC2-A266-94E9F8772DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.API", "Product.API\Product.API.csproj", "{C740D2F6-9331-4FC2-A266-94E9F8772DAB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C0100B15-31B0-48C2-B743-7C361D332D55} = {C0100B15-31B0-48C2-B743-7C361D332D55}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.Application", "Product.Application\Product.Application.csproj", "{13BD23D7-ABE9-4465-9C57-DA2D2D6EC582}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.Application", "Product.Application\Product.Application.csproj", "{13BD23D7-ABE9-4465-9C57-DA2D2D6EC582}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.Domain", "Product.Domain\Product.Domain.csproj", "{2D06FDA2-4B5A-4193-8D85-E92415F69FA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.Domain", "Product.Domain\Product.Domain.csproj", "{2D06FDA2-4B5A-4193-8D85-E92415F69FA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.Data", "Product.Data\Product.Data.csproj", "{3F984543-25C0-45FC-8C68-AFF699E7B26F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.Data", "Product.Data\Product.Data.csproj", "{3F984543-25C0-45FC-8C68-AFF699E7B26F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.CrossCutting", "Product.CrossCutting\Product.CrossCutting.csproj", "{C0100B15-31B0-48C2-B743-7C361D332D55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.CrossCutting", "Product.CrossCutting\Product.CrossCutting.csproj", "{C0100B15-31B0-48C2-B743-7C361D332D55}"
+	ProjectSection(ProjectDependencies) = postProject
+		{13BD23D7-ABE9-4465-9C57-DA2D2D6EC582} = {13BD23D7-ABE9-4465-9C57-DA2D2D6EC582}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.UnitTest", "Product.UnitTest\Product.UnitTest.csproj", "{ED9F8679-DFA6-482A-BE89-ADE30717DBF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.UnitTest", "Product.UnitTest\Product.UnitTest.csproj", "{ED9F8679-DFA6-482A-BE89-ADE30717DBF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

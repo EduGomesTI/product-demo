@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "27sEUX0uYvuHzqgysY2a02wsnGalDD0HAlYJCgD+P8yZk/PTyNOiUi9jQ9N12GL4YrDAwIFj0FU7RkY5j4ghSw==",
+  "dgSpecHash": "VRTcsyH7ruaId0Ac9bI68I7ANuGViSc60WzOEcUL1kHPWweuKn53KOEkzCRCIS06NZGyijb3H8ca1DOwGNjsEg==",
   "success": true,
   "projectFilePath": "D:\\developer\\kubernetes\\demo-kubernetes\\Product\\Product.UnitTest\\Product.UnitTest.csproj",
   "expectedPackageFiles": [
@@ -95,7 +95,9 @@
     "C:\\Users\\dudol\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\dudol\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\dudol\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\dudol\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\dudol\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\dudol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.0\\microsoft.windowsdesktop.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\dudol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0\\microsoft.netcore.app.ref.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
