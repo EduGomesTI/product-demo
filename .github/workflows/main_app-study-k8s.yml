@@ -48,4 +48,4 @@ jobs:
         app-name: 'app-study-k8s'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_69dce03605934445bb1d239c41b4bf42 }}
-        images: 'index.docker.io/${{ secrets.AzureAppService_ContainerUsername_5464ff758a8e4568bb0e6b434b71f879 }}/edugomesti/product:${{ github.sha }}'
+        images: 'index.docker.io/edugomesti/product:${{ github.sha }}'
