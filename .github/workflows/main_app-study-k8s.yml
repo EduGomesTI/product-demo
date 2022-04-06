@@ -30,7 +30,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: index.docker.io/${{ secrets.AzureAppService_ContainerUsername_bcdd7a30717b4300be048020c7f5f41b }}/edugomesti/product:${{ github.sha }}
+        tags: index.docker.io/${{ secrets.AzureAppService_ContainerUsername_bcdd7a30717b4300be048020c7f5f41b }}/product:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
@@ -47,5 +47,5 @@ jobs:
       with:
         app-name: 'app-study-k8s'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0e537b6300794add84f50c8a1a5b2f1c }}
-        images: 'index.docker.io/${{ secrets.AzureAppService_ContainerUsername_bcdd7a30717b4300be048020c7f5f41b }}/edugomesti/product:${{ github.sha }}'
+        #publish-profile: ${{ secrets.AzureAppService_PublishProfile_0e537b6300794add84f50c8a1a5b2f1c }}
+        images: 'index.docker.io/${{ secrets.AzureAppService_ContainerUsername_bcdd7a30717b4300be048020c7f5f41b }}/product:${{ github.sha }}'
